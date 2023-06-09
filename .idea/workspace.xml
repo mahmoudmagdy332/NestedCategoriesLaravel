@@ -11,6 +11,9 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
@@ -117,6 +120,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="25bj9oUFoWDM2CZLXtH8TQZmgvd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -124,7 +128,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../imageUploading" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -149,6 +153,7 @@
       <updated>1645802531241</updated>
       <workItem from="1645802532792" duration="5190000" />
       <workItem from="1645821855887" duration="14107000" />
+      <workItem from="1646260991649" duration="52000" />
     </task>
     <servers />
   </component>
@@ -156,6 +161,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1646261070224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1646261070224" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1645805653546">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
